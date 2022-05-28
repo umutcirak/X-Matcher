@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: b3f0c3f6a0191c94eb11f93b772334cb
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Selena
+  fontNames:
+  - Selena
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f01cc2134a637074188bd24ecd43650e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
